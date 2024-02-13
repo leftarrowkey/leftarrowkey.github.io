@@ -10,3 +10,7 @@ Earlier I was messing with the BeamNG map editor, and accidentally saved a map w
 Custom maps are actually located in `users/steamuser/AppData/Local/BeamNG.drive/<version>/levels`, within the proton instance for BeamNG, located in `compatdata/284160/pfx/drive_c/`, within the steamapps folder.
 
 rename the folder containing your custom level to something not matching a default level (or delete it if you don't want to keep it). This will instead leave another map with the new folder name on the selection screen, containing your custom map.
+
+# TAGS
+beamng map editor maps location
+beamng level editor levels path
